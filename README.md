@@ -28,3 +28,9 @@ Selanjutnya simpan dan buka pada brwoser untuk melihat hasilnya.
 
 Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 ![foto](foto/6.png)
+
+Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat 
+hasilnya.
+
+![foto](foto/7.png)
+
