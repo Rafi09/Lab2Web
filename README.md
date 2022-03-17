@@ -34,3 +34,12 @@ hasilnya.
 
 ![foto](foto/7.png)
 
+# 3. Menambahkan Inline CSS
+
+Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut
+
+![foto](foto/8.png)
+
+Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
+
+![foto](foto/9.png)
