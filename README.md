@@ -43,3 +43,25 @@ Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
 ![foto](foto/9.png)
+
+# 4. Membuat CSS Eksternal
+Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut
+
+![foto](foto/2.0.1.png)
+
+Kemudian tambahkan tag `<link>` untuk merujuk file css yang sudah dibuat pada bagian `<head>`
+
+![foto](foto/foto8.png)
+
+Selanjutnya refresh kembali browser untuk melihat perubahannya.
+
+![foto](foto/21.png)
+
+# 5. Menambahkan CSS Selektor
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut
+
+![foto](foto/foto9.png)
+
+Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
+
+![foto](foto/pp.png)
